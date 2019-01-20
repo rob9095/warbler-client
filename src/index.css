@@ -276,8 +276,8 @@ aside.user-widget {
 }
 
 .user-card.mdl-card {
-  width: 325px;
-	height: 300px;
+  width: 300px;
+  height: 300px;
 }
 .user-card .mdl-card__title {
   height: 166px;
