@@ -1,3 +1,0 @@
-[[redirects]]
-  from = "/api"
-  to = "https://rt-warbler-server.herokuapp.com/api"
